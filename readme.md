@@ -6,6 +6,8 @@ F. Wang, M. Salzmann, and P. Fua, "Eigendecomposition-free Training of Deep Netw
 ECCV 2018. If you use this code in your research,
 please cite the paper.
 
+This repo contains the code for PnP task, for Keypoint Matching task pls check [Eig-Free-Keypoint-Matching-realse](https://github.com/Dangzheng/Eig-Free-Keypoint-Matching-release)
+
 # Installation
 
 This code base is based on Python3. For more details on the required libraries,
